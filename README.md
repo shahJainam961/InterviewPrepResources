@@ -48,4 +48,4 @@
   - [Remaining 6 Videos](https://drive.google.com/drive/folders/1A6DDbofqYKevsBcGsZdTiWNIkwDfOxXZ)
 
 - **LLD + HLD Udemy Course (Shreyansh Jain)**  
-  [Course Link](https://tinyurl.com/lldandhld)
+  [Course Link](https://tinyurl.com/lldandhld) - LLD mandatory, HLD Optional from this course
