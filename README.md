@@ -2,7 +2,7 @@
 
 ## 📑 Table of Contents
 - [🧩 DSA](#-dsa)
-- [⚡ Advanced DSA (Kartik Arora)](#-advanced-dsa-kartik-arora)
+- [⚡ Advanced DSA](#-advanced-dsa)
 - [☕ Java + Spring Boot](#-java--spring-boot)
 - [🛠 System Design](#-system-design)
 
@@ -25,11 +25,12 @@
 
 ---
 
-## ⚡ Advanced DSA (Kartik Arora)
+## ⚡ Advanced DSA
 - [DP on Trees](https://www.youtube.com/playlist?list=PLb3g_Z8nEv1j_BC-fmZWHFe6jmU_zv-8s)  
 - [Range Query DS](https://www.youtube.com/playlist?list=PLb3g_Z8nEv1isaHPaXL1j-pSo60812JtY)  
 - [Digit DP](https://www.youtube.com/playlist?list=PLb3g_Z8nEv1hB69JL9K7KfEyK8iQNj9nX)  
 - [Bitmasking DP](https://www.youtube.com/playlist?list=PLb3g_Z8nEv1icFNrtZqByO1CrWVHLlO5g)
+- [More Advanced DSA - Pavel Mavrin Playlist](https://www.youtube.com/playlist?list=PLrS21S1jm43igE57Ye_edwds_iL7ZOAG4)
 
 ---
 
