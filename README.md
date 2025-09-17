@@ -40,7 +40,7 @@
 
 ## 🛠 System Design
 - **HLD (Books by Alex Xu)**  
-  [Google Drive Folder](https://drive.google.com/drive/folders/1BljQhYZFVE0Dh09e9jKB1lNopQ-ET0ko?usp=sharing)
+  [Read 2 Books by AlexXu](https://drive.google.com/drive/folders/1BljQhYZFVE0Dh09e9jKB1lNopQ-ET0ko?usp=sharing)
 
 - **HLD Videos by Arpit Bhayani**  
   - [First 10 Videos](https://drive.google.com/drive/folders/1-JGnVjmBD30j6TIpdohWETbS9Hw-O1NA)  
