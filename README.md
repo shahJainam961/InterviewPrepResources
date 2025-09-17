@@ -13,7 +13,7 @@
   [Striver A2Z DSA Course Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 
 - **TakeUForward YouTube Channel**  
-  [TakeUForward](https://www.youtube.com/@takeUforward)
+  [TakeUForward Youtube Videos to refer for solution for above sheet](https://www.youtube.com/@takeUforward)
 
 - **Aditya Verma Playlists**  
   - [Sliding Window](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyxnfj)  
