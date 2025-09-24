@@ -43,7 +43,7 @@
 - **HLD (Books by Alex Xu)**  
   [Read 2 Books by AlexXu](https://drive.google.com/drive/folders/1BljQhYZFVE0Dh09e9jKB1lNopQ-ET0ko?usp=sharing)
 
-- **HLD Videos by Arpit Bhayani**  
+- **HLD Videos**  
   - [First 10 Videos](https://drive.google.com/drive/folders/1-JGnVjmBD30j6TIpdohWETbS9Hw-O1NA)  
   - [Remaining 6 Videos](https://drive.google.com/drive/folders/1A6DDbofqYKevsBcGsZdTiWNIkwDfOxXZ)
 
